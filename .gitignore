@@ -1,0 +1,18 @@
+# AWS secrets
+.aws/
+.env
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# SSH / private keys
+*.pem
+*.key
+
+# Logs
+*.log
+
+# OS / editor files
+.DS_Store
